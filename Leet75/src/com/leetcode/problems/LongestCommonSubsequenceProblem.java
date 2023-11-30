@@ -1,8 +1,6 @@
 package com.leetcode.problems;
 
-import java.util.Arrays;
-
-public class LongestSubsequenceProblem {
+public class LongestCommonSubsequenceProblem {
 
     /**
      * <img src="./doc-files/Longest_Subsequence_DP.png" style="width: 60%;"/>
