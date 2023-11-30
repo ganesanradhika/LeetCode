@@ -1,7 +1,8 @@
 package com.leetcode.problems;
 
 /**
- * Leet Code - 367 - Easy - Find Valid Square
+ * Leet Code#367 - Easy - Find Valid Square
+ * @Link- https://leetcode.com/problems/valid-perfect-square/
  * Hint - Binary Search
  */
 public class PerfectSquare {
