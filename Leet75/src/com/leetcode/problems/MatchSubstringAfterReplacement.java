@@ -5,6 +5,9 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
+/**
+ * LeetCode#2301. Match Substring After Replacement
+ */
 public class MatchSubstringAfterReplacement {
 
     public static void main(String... args){
