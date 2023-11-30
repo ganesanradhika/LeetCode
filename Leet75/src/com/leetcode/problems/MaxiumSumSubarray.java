@@ -1,5 +1,9 @@
 package com.leetcode.problems;
 
+/**
+ * LeetCode#53. Maximum Subarray
+ * Kadane's Algorithm
+ */
 public class MaxiumSumSubarray {
 
     public static void main(String[] args) {
