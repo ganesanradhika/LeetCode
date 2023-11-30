@@ -6,6 +6,7 @@ import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
 /**
+ * LeetCode#1838. Frequency of the Most Frequent Element
  * Find the number that occurs more than n/2.
  *
  * First Approach - Use Hashmap to count with streams.
